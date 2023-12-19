@@ -30,7 +30,7 @@ public class LoginPage extends BasePage{
 		
 	}
 	
-	public void getLoginPageDetail() {
+	public void getLoginPageDetailTesting() {
 	System.out.println("this page will give details of page");
 	}
 	
